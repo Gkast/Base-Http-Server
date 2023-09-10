@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="e3d6c76d-279e-4838-bcd0-686b5b130b7e" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sqldialects.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Base-Http-Server.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/combined.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/error.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/assets/css/main.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/assets/http-project.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/assets/js/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/build/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/src/auth/authentication.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/src/auth/captcha.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/src/handler/error-handler.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/src/handler/request-handler.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/src/main.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/src/main/client-auth/client-auth.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/src/main/client-auth/login.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/src/main/client-auth/register.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/src/main/client-auth/reset-password.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/src/main/home.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/src/util/config/connection-config.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/src/util/config/router-config.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/src/util/my-http/http-handler.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/src/util/my-http/http-status.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/src/util/my-http/responses/client-error-response.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/src/util/my-http/responses/html-template.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/src/util/my-http/responses/redirect-response.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/src/util/my-http/responses/successful-response.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/src/util/react.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/src/util/routes/main-routes.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/src/util/tools/graceful-shutdown.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/src/util/tools/logger.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/src/util/tools/mime-types.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/src/util/tools/type-helper.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/src/util/util.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/tsconfig.json" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="TypeScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MacroExpansionManager">
+    <option name="directoryName" value="1tbjvsi6" />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="2" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 6
+}]]></component>
+  <component name="ProjectId" id="2VD5rHucEVWTYyPRAsK7RzXI8bc" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "database.data.extractors.current.export.id": "SQL Inserts",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "/home/george/Desktop/Projects/Base-Http-Server/server/build/main.js",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "settings.typescriptcompiler",
+    "ts.external.directory.path": "/home/george/Desktop/Projects/Base-Http-Server/server/node_modules/typescript/lib",
+    "vue.rearranger.settings.migration": "true"
+  },
+  "keyToStringList": {
+    "DatabaseDriversLRU": [
+      "mysql"
+    ]
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/server" />
+      <recent name="$PROJECT_DIR$/server/src" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="main.js" type="NodeJSConfigurationType" nameIsGenerated="true" path-to-js-file="server/build/main.js" working-dir="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e3d6c76d-279e-4838-bcd0-686b5b130b7e" name="Changes" comment="" />
+      <created>1694358010303</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1694358010303</updated>
+      <workItem from="1694358011331" duration="2544000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
